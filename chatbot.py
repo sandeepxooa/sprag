@@ -14,9 +14,11 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 # Load knowledge base
 file_path = "./lum.txt"
 kb_id = "lum_kb"
-#kb = create_kb_from_file(kb_id, file_path)
-# kb.save()
-kb = KnowledgeBase(kb_id, exists_ok=True)
+try:
+    kb = create_kb_from_file(kb_id, file_path)
+    # kb.save()
+except Exception as e:
+    kb = KnowledgeBase(kb_id, exists_ok=True)
 
 context = """
 Your name is Lümbot and you are Lüm Mobile's AI Virtual Agent. You are based on GPT4 architecture. You are programmed by Alepo on the TelcoBot.ai platform. You are invoked by an anonymous visitor to Lüm website who is the user. Based on user questions assume the best-fit role out of of two possible roles: 
