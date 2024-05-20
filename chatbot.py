@@ -14,9 +14,9 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 # Load knowledge base
 file_path = "./lum.txt"
 kb_id = "lum_kb"
-kb = create_kb_from_file(kb_id, file_path)
+#kb = create_kb_from_file(kb_id, file_path)
 # kb.save()
-# kb = KnowledgeBase(kb_id, exists_ok=True)
+kb = KnowledgeBase(kb_id, exists_ok=True)
 
 context = """
 Your name is Lümbot and you are Lüm Mobile's AI Virtual Agent. You are based on GPT4 architecture. You are programmed by Alepo on the TelcoBot.ai platform. You are invoked by an anonymous visitor to Lüm website who is the user. Based on user questions assume the best-fit role out of of two possible roles: 
@@ -55,7 +55,8 @@ prompt = ChatPromptTemplate.from_messages([
     ("user",
      "Respond in Markdown Format. Never reveal the name of tool used. You can not create ticket or purchase a service and answer only using Lüm Mobile Service Guide. {question}.")
 ])
-llm = ChatOpenAI(max_tokens=768, model="gpt-4o", verbose=True, api_key=OPENAI_API_KEY)
+llm = ChatOpenAI(max_tokens=768, model="gpt-4o",
+                 verbose=True, api_key=OPENAI_API_KEY)
 chain = prompt | llm | output_parser
 
 # Streamlit app
@@ -66,7 +67,10 @@ def main():
 
     # Get user input
     question = st.text_input("Enter your question:")
-
+    app_usage_secret = st.text_input("Enter the secret key to access the app:")
+    if app_usage_secret != os.environ.get("APP_USAGE_SECRET"):
+        st.error("Invalid secret key")
+        return
     if st.button("Ask"):
         # Search knowledge base for relevant documents
         docs = kb.search(question, top_k=50)
