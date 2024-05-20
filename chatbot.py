@@ -5,6 +5,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from sprag.knowledge_base import KnowledgeBase
+from langchain_text_splitters import TokenTextSplitter
 
 # Load API keys from environment variables
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
@@ -79,9 +80,11 @@ def main():
         docs.sort(key=lambda x: x['similarity'], reverse=True)
         context_texts = [doc['metadata']["chunk_text"] for doc in docs]
         context = "\n\n".join(context_texts)
+        text_splitter = TokenTextSplitter(chunk_size=2048, chunk_overlap=0)
 
+        texts = text_splitter.split_text(context)
         # Generate response using LLM
-        resp = chain.invoke({"context": context, "question": question})
+        resp = chain.invoke({"context": texts[0], "question": question})
         escaped_text = resp.replace("$", "\$")
         # Display response in markdown format
         st.markdown(escaped_text)
