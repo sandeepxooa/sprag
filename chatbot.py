@@ -69,8 +69,9 @@ def main():
     st.title("Chatbot")
 
     # Get user input
-    question = st.text_input("Enter your question:")
-    app_usage_secret = st.text_input("Enter the secret key to access the app:", type="password")
+    question = st.text_area("Enter your question:")
+    app_usage_secret = st.text_input(
+        "Enter the secret key to access the app:", type="password")
     if app_usage_secret != os.environ.get("APP_USAGE_SECRET"):
         st.error("Invalid secret key")
         return
