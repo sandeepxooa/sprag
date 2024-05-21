@@ -6,7 +6,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from sprag.knowledge_base import KnowledgeBase
 from langchain_text_splitters import TokenTextSplitter
-
+from dotenv import load_dotenv
+load_dotenv()
 # Load API keys from environment variables
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 CO_API_KEY = os.environ.get("CO_API_KEY")
@@ -93,7 +94,7 @@ def main():
 
         with st.expander("Relevant Context"):
             # Display top 5 relevant documents
-            for i, doc in enumerate(docs[:5], start=1):
+            for i, doc in enumerate(docs[:10], start=1):
                 st.subheader(f"Context {i}")
                 st.markdown(doc['metadata']["chunk_text"])
 
