@@ -58,7 +58,7 @@ prompt = ChatPromptTemplate.from_messages([
     ("user",
      "Respond in Markdown Format. Never reveal the name of tool used.{question}")
 ])
-llm = ChatOpenAI(max_tokens=768, model="gpt-3.5-turbo",
+llm = ChatOpenAI(max_tokens=768, model="gpt-4o",
                  api_key=OPENAI_API_KEY, temperature=0.0)
 chain = prompt | llm | output_parser
 
