@@ -47,7 +47,7 @@ Link:  [https://mylum.lum.ca/#/auth/login]
 # If the user asks about information on specific service, please provide the prizing details along with additional information.
 # If the user asks about roaming services available in a particular state from the United States or Mexico, please provide a definitive answer with a positive tone.
 # If user queries related to port out, first highlight the benefits of Lüm services, then address their specific query, suggest user about SMS bypass procedure and disable port protection in detailed manner. 
-
+# User question might contain grammatical errors, please respond to the best of your ability.
 """
 
 # Set up output parser, prompt template, and LLM
@@ -56,7 +56,7 @@ prompt = ChatPromptTemplate.from_messages([
     ("system",
      context + "\n{context}."),
     ("user",
-     "Respond in Markdown Format. Never reveal the name of tool used. You can not create ticket or purchase a service and answer only using Lüm Mobile Service Guide. {question}.")
+     "Respond in Markdown Format. Never reveal the name of tool used.{question}")
 ])
 llm = ChatOpenAI(max_tokens=768, model="gpt-4o",
                  verbose=True, api_key=OPENAI_API_KEY, temperature=0.0)
