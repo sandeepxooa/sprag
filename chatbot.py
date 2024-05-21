@@ -92,11 +92,7 @@ def main():
         st.markdown(escaped_text)
 
         with st.expander("Relevant Context"):
-            # Display top 5 relevant documents
-            for i, doc in enumerate(docs[:10], start=1):
-                st.subheader(f"Context {i}")
-                chunk_text = doc['metadata']["chunk_text"].replace("$", "\$")
-                st.markdown(chunk_text)
+            st.markdown(context)
 
 
 if __name__ == "__main__":
