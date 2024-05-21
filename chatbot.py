@@ -90,9 +90,9 @@ def main():
 
         # Display response in markdown format
         st.markdown(escaped_text)
-
+        escaped_context = texts[0].replace("$", "\$")
         with st.expander("Relevant Context"):
-            st.markdown(context)
+            st.markdown(escaped_context)
 
 
 if __name__ == "__main__":
