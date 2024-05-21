@@ -58,8 +58,8 @@ prompt = ChatPromptTemplate.from_messages([
     ("user",
      "Respond in Markdown Format. Never reveal the name of tool used.{question}")
 ])
-llm = ChatOpenAI(max_tokens=768, model="gpt-4o",
-                 verbose=True, api_key=OPENAI_API_KEY, temperature=0.0)
+llm = ChatOpenAI(max_tokens=768, model="gpt-3.5-turbo",
+                 api_key=OPENAI_API_KEY, temperature=0.0)
 chain = prompt | llm | output_parser
 
 # Streamlit app
@@ -81,7 +81,8 @@ def main():
         docs.sort(key=lambda x: x['similarity'], reverse=True)
         context_texts = [doc['metadata']["chunk_text"] for doc in docs]
         context = "\n\n".join(context_texts)
-        text_splitter = TokenTextSplitter(chunk_size=2048, chunk_overlap=0, model_name="gpt-4o")
+        text_splitter = TokenTextSplitter(
+            chunk_size=2048, chunk_overlap=0, model_name="gpt-4o")
 
         texts = text_splitter.split_text(context)
         # Generate response using LLM
