@@ -87,8 +87,15 @@ def main():
         # Generate response using LLM
         resp = chain.invoke({"context": texts[0], "question": question})
         escaped_text = resp.replace("$", "\$")
+        
         # Display response in markdown format
         st.markdown(escaped_text)
+        
+        # Display relevant context in the sidebar
+        st.sidebar.title("Relevant Context")
+        for i, doc in enumerate(docs[:5], start=1):  # Display top 5 relevant documents
+            st.sidebar.subheader(f"Context {i}")
+            st.sidebar.markdown(doc['metadata']["chunk_text"])
 
 
 if __name__ == "__main__":
