@@ -81,7 +81,7 @@ def main():
         docs.sort(key=lambda x: x['similarity'], reverse=True)
         context_texts = [doc['metadata']["chunk_text"] for doc in docs]
         context = "\n\n".join(context_texts)
-        text_splitter = TokenTextSplitter(chunk_size=1500, chunk_overlap=0, model_name="gpt-4o")
+        text_splitter = TokenTextSplitter(chunk_size=2048, chunk_overlap=0, model_name="gpt-4o")
 
         texts = text_splitter.split_text(context)
         # Generate response using LLM
