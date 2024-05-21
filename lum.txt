@@ -1,5 +1,5 @@
-*** plan
-**The Lüm Way
+# Plan
+## The Lüm Way
 Say goodbye to the old way of wireless. Lüm Mobile has a new way of doing things with no monthly plans or billing dates. You just:
 
 1. Buy a Lüm membership
@@ -7,7 +7,7 @@ Say goodbye to the old way of wireless. Lüm Mobile has a new way of doing thing
 
 Tired of losing your unused data? As long as you keep your membership active, your data won’t expire. Buy and use data whenever YOU need it.
 
-*WAYS TO SAVE WITH A LÜM MEMBERSHIP
+## WAYS TO SAVE WITH A LÜM MEMBERSHIP
 Never lose data you’ve paid for
 Unlike providers where you lose unused data at the end of your monthly bill
 No unexpected or pricey overages
@@ -18,25 +18,25 @@ Only pay for what you use
 Don’t pay for extras like unlimited calling or voicemail if you don’t need them
 
 
-*How to get Lüm Membership
+## How to get Lüm Membership
 Membership means access to great rates on data that never expires – powered by Canada’s largest network
 
--Choose your Lüm Membership
+- Choose your Lüm Membership
 Use auto-pay for worry free membership renewals
 
 3 MONTHS for $60 (Lüm Membership)
 1 YEAR for $200  (Lüm Membership)   
 
-. 9-1-1 fee is extra.
+- 9-1-1 fee is extra.
 
--Add your data
+- Add your data
 Keep your membership active and your data never expires! Keep it until you need it. When you run low, recharge data from the Lüm Mobile app.
-1. 2 GB for $15
-2. 6 GB for $30
-3. 14 GB for $55
-4. 25 GB for $80
-5. 50 GB for $140
-6. 95 GB for $200
+    1. 2 GB for $15
+    2. 6 GB for $30
+    3. 14 GB for $55
+    4. 25 GB for $80
+    5. 50 GB for $140
+    6. 95 GB for $200
 
 With Lüm, there are no charges for minutes or messages: just megabytes (MB).
 Calls and texts come out of your data balance. That’s how we do things at Lüm - we think that if you don’t make calls, you shouldn’t pay for them, either.
@@ -46,7 +46,7 @@ Calls and texts come out of your data balance. That’s how we do things at Lüm
 
 That means with just 1 GB you can talk for 8 hours AND send 5,000 text messages!
 
--(Optional add-on service on top of Lüm Membership):
+- (Optional add-on service on top of Lüm Membership):
 Add Unlimited Talk & Text if you want to!
 If you want to keep it old school, great! Add the Talk & Text add-on to your Lüm membership for unlimited talk and texts from within Canada to anywhere in Canada or the U.S. The Add-on will renew with your membership (unless you choose to remove it).
 
@@ -59,19 +59,19 @@ If you want voicemail, you can add that to your Lüm membership too! Securely st
 3 MONTHS for $15 Plus taxes (Voicemail)
 1 YEAR for $60    Plus taxes  (Voicemail)
 
-*Only $1! WOW – Save big today!
+### Only $1! WOW – Save big today!
 Life's expensive. That's why Lüm Mobile is not. Sign up today and get a 3 month membership and 6 GB of data for only $1!
 Want a longer membership and more data? You can save too! If you’re new to Lüm, you automatically save up to $96 when you sign up.
 This is a limited time offer. Don't miss out. Sign up and save today!
 
 
-*Share your love for Lüm and save!
+### Share your love for Lüm and save!
 Have a friend sign up to Lüm and you both save $25! Get your referral code from your myLüm account and share the code with your friend. They use the code to save $25 on their first purchase, then you automatically save $25 on your next membership renewal (if your friend doesn't cancel within 15 days after activating).
 
 It's our way of saying thank you! Full details in the terms below.
 
 
-*Link with Lüm
+## Link with Lüm
 The love for Lüm is strong! You asked and we heard — now you can link with Lüm.
 
 
@@ -82,12 +82,12 @@ If you have multiple people in your life that subscribe to Lüm and you want to 
 
 
 
-*Payment
+# Payment
 Lüm Mobile is totally digital - that means payment is too. We accept payment by credit card or most Mastercard/Visa debit cards. For ultimate convenience and uninterrupted access, set your account to auto-pay to automatically renew your membership and recharge data when you need it. Notifications can be set to remind you about auto-pay so you don’t get surprised!
 
 If you’re more budget-conscious, we hear you! You can set your data to recharge on a calendar date or even choose to leave auto-pay turned off and control your payments manually.
 
-*Take Lüm with you / Roaming with Lüm
+# Take Lüm with you / Roaming with Lüm
 You can use Lüm all over the U.S. and Mexico —don’t forget to send us pictures!
 Note: Lum services are not available outside of USA and Maxico.
 
@@ -101,26 +101,26 @@ U.S. Travel data 1GB for $15
 
 Mexico Travel Data  1GB for $30
 
-*Become a member today!
+## Become a member today!
 Lum Mobile is 100% digital self-serve. Download the Lüm Mobile app to sign up and get started.
 
-** bringphone
+## bringphone
 Bring Your Own Phone
 At Lüm, it’s all about selling data – so you can bring your own phone and we won’t try to sell you something newer or more expensive.
 Goto https://lum.ca/bringphone and enter your phone's IMEI number to make sure that your phone is compatible with Lüm and isn’t listed as lost or stolen. 
 
 Love your phone number? Bring that, too! You can bring Saskatchewan phone numbers (306 or 639 area code) over to Lüm from most providers. But how, you ask? After you sign up and receive your eSIM or physical SIM card - the online process to activate your SIM will also take you through the steps to move your number . It is important NOT to cancel your account with your old provider just yet - once you complete the steps to move your number it will cancel your old account. You can always choose to get a new number with Lüm as well!
 
-*Activate your SIM
--Hold up! To get up and running with Lüm Mobile, you’ll need to sign up and get an eSIM or order a SIM card. If you’ve already done that (and have your SIM card in hand if you need one), keep going and activate now.
+# Activate your SIM
+- Hold up! To get up and running with Lüm Mobile, you’ll need to sign up and get an eSIM or order a SIM card. If you’ve already done that (and have your SIM card in hand if you need one), keep going and activate now.
 For more details on activating your sim card refer to this article on [https://help.lum.ca/kb/articles/31-activating-your-sim-card?utm_source=community-search&utm_medium=organic-search&utm_term=sim+activate] for SIM activation and this article on [https://help.lum.ca/kb/articles/136-esim-activation-by-phone-type] for esim activation. 
--provide esim article when asked about queries on esim activation.
+- provide esim article when asked about queries on esim activation.
 
 
-**#Bloom With Lüm
+# #Bloom With Lüm
 Lüm Mobile is committed to use our voice and social media to share information to spark conversations and inspire actions to help the environment.
 
-*Let’s get started!  
+## Let’s get started!  
 
 When we mail your SIM card, we’ll include a little something extra: a packet of locally sourced, native wildflower seeds that you can plant in your yard, a window box,or even a boulevard garden. In the cooler months, start the plants indoors and move them outside in the spring! Your new wildflower garden is more than a pretty space -- it’s one square meter of pollinator habitat and one small step for sustainability.
 
@@ -128,31 +128,31 @@ Saskatchewan is home to hundreds of pollinator species like leafcutter bees, bum
 
 Join us in making smart environmental choices, taking small steps to improve our world, and doing your part to ensure our planet is sustainable for years to come.
 
-*Get Involved
+## Get Involved
 We love watching our small actions add up to big change. Follow us on Instagram to learn more and share what you and your community are doing!
 
-Making your home more “green” or eco-friendly doesn’t just benefit the environment – it can benefit your wallet, too! We spend a significant amount of time at home and making some small changes can have a big impact. Some “green” improvements can be made quickly with no cost, while others are a bit more work/budget. Check out our Instagram @lummobile for some easy green home tips!
-----------------------------------------------------------------------------------------------------------------------------------------------------
+### Making your home more “green” or eco-friendly doesn’t just benefit the environment – it can benefit your wallet, too! We spend a significant amount of time at home and making some small changes can have a big impact. Some “green” improvements can be made quickly with no cost, while others are a bit more work/budget. Check out our Instagram @lummobile for some easy green home tips!
 
-**FAQ
 
-*What do I get with a Lüm membership ? 
+# FAQ
+
+### What do I get with a Lüm membership ? 
 
 You know Costco? Where you buy a membership to get access to great things? What a great idea! Lüm membership gives you access to buy data that never expires at great rates on a trusted network. Plus you get everything you need to get your service up and running at no extra cost- your SIM card, activation and phone number (new or bring your own). Did you know many providers charge for the SIM and up to $50 for activation fees alone?
 
 You also get free call display, unlimited incoming texts and access to call forwarding, call waiting and three way calling.
 
-* Can I change my membership ? 
+### Can I change my membership ? 
 Lüm offers 3 month and 1 year memberships. When your current membership reaches its end date, you can renew with a different membership term.
 
-*Can I add the Talk & Text or Voicemail ad-on anytime ?
+### Can I add the Talk & Text or Voicemail ad-on anytime ?
 Yes! You can add the Talk & Text or Voicemail add-on anytime during your membership. If you get the add-on partway through your membership term, the price you pay for the add-on will be reduced to match the amount of time left on your membership.
 
-*What if I want to cancel my membership ?
+### What if I want to cancel my membership ?
 You can cancel your membership at any time but we do not provide refunds.  
 If you choose to cancel your membership, you will lose any remaining data.  
 
-*What can I use to manage my service and payments ?
+### What can I use to manage my service and payments ?
 
 Auto-pay lets you set automatic payments to renew membership and recharge data. Auto-pay can also be turned off for either membership renewals or data recharges. You decide how you want to manage things! Service notifications will let you manage helpful reminders like when your data is running low, membership is nearing expiry, or an automatic payment is about to be charged
 
@@ -163,13 +163,13 @@ Overall membership details showcasing the duration and cost.
 If you have forgotten your password, click on the "Forgot Password" link and follow the instructions to reset it. You will need to provide the email address associated with your account to receive a password reset link.
 Once you are logged in to your myLüm account, you will be able to manage your service, view usage, make payments, and access various account-related features.
 
-*Can I transfer my Lüm data to another customer?
+### Can I transfer my Lüm data to another customer?
 Once data is purchased, it can't be shared or transferred to another customer. 
 
-*Can i use my Lum Data in other location than U.S and Mexico?
+### Can i use my Lum Data in other location than U.S and Mexico?
 Lüm Mobile services are only available within Canada, the U.S., and Mexico. If you're travelling to other international locations like Antarctica, you might want to explore other ways to use mobile service, such as buying a SIM card from the international location you are travelling to or using Wi-Fi.
 
-*How can i log in to my account?
+### How can i log in to my account?
 To log in to your Lüm Mobile account, follow these steps:
 
 1. Go to the Lüm Mobile website at [https://www.lum.ca].
@@ -182,38 +182,38 @@ To log in to your Lüm Mobile account, follow these steps:
 If you are having trouble logging in or need further assistance, please don't hesitate to contact our customer service team by submitting a trouble ticket using the 'Raise Request' button.
 
 
-* How do I get a SIM?
+### How do I get a SIM?
 If you are new to Lüm, download the app or use the website to sign up and get started. 
 Once you buy your membership and data, if your phone is eSIM capable you can activate and get started right away. 
 If you need a physical SIM card, it will take 1 business day to ship.
 After it's shipped - it will take 1-3 business days for your SIM card to arrive through Canada Post.  
 If you are already with Lüm - you can order another SIM from your myLüm account.
 
-* Tips to activate your service
+### Tips to activate your service
 With an eSIM, you can activate your account and start using Lüm right away.
 If you need a physical SIM card, here are directions to insert your SIM card.
 Once your SIM is activated - test things out by making a phone call, sending a text and using your data.
 If you are having any trouble, get help.
 
-* With Lüm, you bring your own phone. Any tips if I’m getting a used phone?
+### With Lüm, you bring your own phone. Any tips if I’m getting a used phone?
 Make sure the phone isn't too old - the age of a phone may affect the services it can use.
 It's best if the phone was purchased in North America - phones purchased from other countries may not work. 
 You might need a few extra pointers if you didn't originally buy the phone from a cellular provider. 
 
-* Can I bring my own phone number?
+### Can I bring my own phone number?
 Yes! You can bring a phone number over to Lüm from most providers - but it does need to be a Saskatchewan phone number (306 or 639 area code).  Once you have your eSIM or receive your SIM card: [https://lum.ca/activate]. The online process to activate your SIM will take you through the steps to move your number over. It is important NOT to cancel your account with your old provider before this - once you complete the number move it will automatically cancel your old account.
 
-* Can I sign up today and activate later?
+### Can I sign up today and activate later?
 Yes, you can sign up for Lüm Mobile today and activate your service later. After signing up, you can download the Lüm Mobile app to get started. If your phone is eSIM capable, you can activate and start using Lüm right away. If you need a physical SIM card, it will take 1 business day to ship. After it's shipped, it will take 1-3 business days for your SIM card to arrive. Once you have your SIM card or eSIM, you can activate your service at your convenience. Your membership will start the day you activate your sim. 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-**Terms and Conditions 
 
-**Plans
+# Terms and Conditions 
+
+## Plans
 When signing up for service, you must agree to the Lüm Mobile Terms of Service [https://lum.ca/terms]  and the Lüm Mobile Privacy Policy [https://lum.ca/privacy].  
 Prices do not include GST or PST. 
  
-*Membership 
+## Membership 
 - Included in your membership is: 
 
 - the option to purchase Canada Data and Travel Data
@@ -231,35 +231,32 @@ Prices do not include GST or PST.
 - The membership fee does not include 9-1-1 fees or taxes. 
  
 
-*Use and Data Charges 
+## Use and Data Charges 
 - When you talk, send a text message, or use data, the applicable data cost is deducted from your data balance unless you have the Talk and Text add-on. 
 - Your data balance does not expire while you have an active membership, but once a membership expires, any data remaining expires 60 days after your membership end date. 
 - When you are getting close to using up your data, we will send you a notification (unless you choose to opt-out of the notification). If you run out of data, you will not be able to use any services.  If you run out of data, 9-1-1 calls can still be made. 
 - Data purchases cannot be transferred to another customer. 
  
 
-*Canada Data 
+## Canada Data 
 - Auto-recharge can be turned on in your myLüm account to automatically purchase data for you when your balance is close to running out
 - If you have data set to auto-recharge, it will automatically purchase data at the current in-market rate. 
 - When you talk, send a text message, or use data while in Canada, the applicable data amount is deducted from your data balance. For more details see Terms of Service. 
  
 
-*Travel Data 
+## Travel Data 
 - You can purchase Travel Data to roam in the U.S. and Mexico where service is available.  Data purchased for Canada cannot be used in the U.S. and Mexico Travel Data:  
- -- U.S. Travel data 1GB for $15
- -- Mexico Travel Data  1GB for $30
- 
+-  U.S. Travel data 1GB for $15
+- Mexico Travel Data  1GB for $30
 - may only be used outside of Canada;  
-- cannot be transferred to the Canada data balance; and 
-- is non-refundable. 
-
-- Every time you talk, send a message, or use data, the applicable cost is deducted from your Travel Data balance.  Outgoing text messages are deducted from the data balance at a rate of 1 MB per message.  All incoming and outgoing calls are deducted from the data balance at a rate of 1 MB per minute.  MMS messages are deducted from the data balance based on the actual size of the picture or video. 
+- cannot be transferred to the Canada data balance and is non-refundable. 
+* Every time you talk, send a message, or use data, the applicable cost is deducted from your Travel Data balance.  Outgoing text messages are deducted from the data balance at a rate of 1 MB per message.  All incoming and outgoing calls are deducted from the data balance at a rate of 1 MB per minute.  MMS messages are deducted from the data balance based on the actual size of the picture or video. 
 - The Talk & Text add-on does not include calls made and messages sent while roaming outside of Canada.  
 - Travel Data cannot be set to auto-pay. 
 - If you purchase $100 in Travel Data in any 30-day period, you will be required to consent to purchases over $100. 
 
 
-*Talk and Text Add-on: Optional 
+## Talk and Text Add-on: Optional 
 - The Talk & Text add-on includes unlimited outgoing calls and messages while you are in Canada to Canada and the U.S. 
 - It also includes incoming calls and text messages while you are in Canada from Canada and the U.S. 
 - The Talk & Text add-on does not include calls made and messages sent while roaming outside of Canada. Picture and video messages (MMS) are not included in the Talk & Text add-on.  
@@ -267,22 +264,22 @@ Prices do not include GST or PST.
 
  
 
-*Voicemail Add-on: Optional 
+## Voicemail Add-on: Optional 
 - Voicemail boxes can store up to 25 messages. Messages can be up to 3 minutes in duration.
 - The voicemail service add-on will automatically renew when your membership auto-renews, and you will be charged the current in-market rate.
 - You can cancel voicemail service at any time, but it will not be refunded.
 - You are responsible for protecting your mailbox by regularly updating your password.
 - Calls into the voicemail service from your Lüm phone are not deducted from your data balance.
 
-*9-1-1 Service 
+## 9-1-1 Service 
 - A 9-1-1 fee applies to all memberships purchased for Lüm Mobile.  The fee is an amount we must pay to the 9-1-1 service operator for 9-1-1 to work on your phone. 
 - This fee will be charged in addition to the membership fee whenever a membership is purchased. 
 - The 9-1-1 fee is charged for the total number of months that your membership is valid.  
 - If your membership is cancelled with more than a month remaining, the unused portion of the 9-1-1 fee will be refunded back to the payment card on your account. 
 - See 9-1-1 Limitations.
 
-**Deals  
-*New Customer Offer
+# Deals  
+## New Customer Offer
 - Offer available to "New" Lüm customers. "New" Lüm customers are defined as a customer that has not had a Lüm Mobile membership in the past 6 months. New Linked accounts are eligible if the linked account is a "New" Lüm customer. 
 - "New" Lüm customers receive up to an $96 discount off their first purchase. The discount is automatically applied. The total invoice can be reduced to $0.26 by the applicable discount. A total invoice can be $0.26 but not less.  
 - - provide a complete breakdown of $96 in the response like - you can say our promo provides you 3 months at $60 and 6GB of data which is $30 plus 911 fees. We are not restricting you to this plan though if you choose something higher therefore we will auto apply the max discount of $96 on your first invoice. PS. If you have a referral code you also receive $25 off and the person who referred you will receive a$25 credit on their next renewal.
@@ -292,7 +289,7 @@ Prices do not include GST or PST.
 - Offer available for a limited time. 
 - Offer is subject to change or may end at any time.  
 
-*Refer a Friend  
+## Refer a Friend  
 - "Existing" Lüm customers can share their referral code with a friend to refer them to Lüm. A customer is "Existing" if they have purchased / have an active Membership. 
 - "New" Lüm customer (that cannot already be an active Lüm customer) uses the referral code to redeem the promotion. 
 -  New Lüm customer must apply referral code during their first membership purchase and will save $25 on the first purchase. New customers can save a maximum of $25 with the promotion.
@@ -305,39 +302,38 @@ Prices do not include GST or PST.
 - If the New customer purchases service but then cancels their service within 15 days – the Existing customer will not receive the promotion.
 - Promotion is subject to change or end at anytime.
 
-*For Promotional , Offer or Gift Card Details 
+## For Promotional , Offer or Gift Card Details 
 There are certain promotional offers available for new customers. If you signed up during a promotional period, you may be eligible for certain benefits. For the most accurate and up-to-date information regarding promotions and offers, it's recommended to visit our deals page [https://lum.ca/plan_deals] and the Legal section for terms at [https://lum.ca/cms/legal] or contact the customer service team. Remember, Lüm Mobile is committed to providing you with the best possible service and support. Keep going, you're doing great! 
 
-**Getting Started  
+# Getting Started  
  
-*Eligibility for Service 
+## Eligibility for Service 
 - Customers must reside in Saskatchewan and have a billing and shipping address within the province to sign up for the Service. 
 - You must bring your own phone. 
 - Your phone and its software must meet minimum Lüm network standards.  Our network standards will be updated sometimes, and you may no longer be able to use the service without - upgrading your software or phone.  
 
-**Coverage 
+# Coverage 
  
-Service Area and Coverage Details  
+## Service Area and Coverage Details  
 - You can use the Service within Lüm��s coverage areas in Saskatchewan or areas served by companies with whom we have roaming agreements in the rest of Canada. 
 - You can call and text numbers in Canada, the U.S., and Mexico. You cannot receive international calls and text messages from countries other than Canada, the U.S., and Mexico.  The U.S. includes Alaska, Hawaii and the country of Guam. 
 - Roaming is only available in the U.S. and Mexico where Lüm has agreements with roaming partners. Coverage areas, and the connectivity in these areas, will depend on the availability of network facilities which is subject to change from time to time, without notice.   
 
-*When user asks about using the services in other countries (like Paris or Europe) 
--Take Lüm Mobile with you when you travel to the U.S. and Mexico! Lüm uses AT&T’s LTE network across the U.S., automatically switching to 4G outside the LTE coverage area. Please be advised our U.S. network partners made 3G network changes in 2022 that will impact voice calls in the U.S. unless you have a VoLTE eligible phone. Learn more about VoLTE phones here. PLUS - there is more good news - data and text messaging will still work for all phones in the U.S. so you can buy Travel Data and still make voice calls with data services like FaceTime and WhatsApp. If you're travelling to other international locations, you can still take your Lüm phone and explore other ways to use mobile service, like buying a SIM card from the international location you are travelling to or using Wi-Fi
+## When user asks about using the services in other countries (like Paris or Europe)
+- Take Lüm Mobile with you when you travel to the U.S. and Mexico! Lüm uses AT&T’s LTE network across the U.S., automatically switching to 4G outside the LTE coverage area. Please be advised our U.S. network partners made 3G network changes in 2022 that will impact voice calls in the U.S. unless you have a VoLTE eligible phone. Learn more about VoLTE phones here. PLUS - there is more good news - data and text messaging will still work for all phones in the U.S. so you can buy Travel Data and still make voice calls with data services like FaceTime and WhatsApp. If you're travelling to other international locations, you can still take your Lüm phone and explore other ways to use mobile service, like buying a SIM card from the international location you are travelling to or using Wi-Fi
  
-*Fair and Appropriate Use 
+## Fair and Appropriate Use 
 Lüm Mobile services are meant to be used primarily within Saskatchewan. If more than half of your data usage on an ongoing basis is occurring outside of Saskatchewan, Lüm Mobile reserves the right to limit your data, the amount of data transferred, deny, suspend, or terminate the service or any part, component, or feature thereof, without notice, to anyone believed to be using any Lüm Mobile wireless service or feature in any manner that adversely impacts Lüm Mobile.   
 
-*Network Operation, Details & Limitations 
+## Network Operation, Details & Limitations 
 Speeds are limited by environmental factors including tower locations, distance from cell sites, network congestion, tower hand-offs, and phone used.  
 
-*Wireless Alerts 
+## Wireless Alerts 
 We are not responsible for the operation of public alerting systems, including the Alert Ready System.  We do not control the content, timing and/or who can receive messages.  See alertready.ca/wireless for current alerts and further details.
 
------------------------------------------------------------------------------------------------------------------------------------------------
-## FAQ
+# FAQ
 
-*3G U.S. network shutdown
+## 3G U.S. network shutdown
 Our U.S. network partners (AT&T and T-Mobile) turned down their 3G networks
 
 AT&T shutdown Feb 2022
@@ -349,7 +345,7 @@ Data and text messaging will still continue work. A great alternative is to use 
 We also launched VoLTE on July 1, 2022 - which means that VoLTE capable phones can still make voice calls from the U.S. 
 
 
-*9-1-1 Fee increasing April 1, 2023
+## 9-1-1 Fee increasing April 1, 2023
 
 On April 1, 2023, the Saskatchewan Government is increasing the 9-1-1 call taking fee that supports emergency services. The increase will be an additional $0.13 per month.
 
@@ -362,13 +358,13 @@ Lüm includes 9-1-1 fees at the time of membership - so any memberships purchase
 Customers with memberships purchased before April 1, 2023 won't pay the increased 9-1-1 fee until their next membership renewal.
 
 
-*Accessibility information
+## Accessibility information
 
 Lüm Mobile customers who identify as blind, deaf, or hard of hearing are eligible for an extended 30-day trial period on any new membership.  
 
 The Accessibility self-declaration form can be used to apply for this. One form will need to be completed and submitted per membership. 
 
-*Bringing your current phone number to Lüm Mobile
+## Bringing your current phone number to Lüm Mobile
 
 You can bring most Saskatchewan phone numbers to Lüm Mobile (if you're not sure, contact your old provider). Once you have your SIM card, follow the activation steps to bring it over.
 
@@ -393,7 +389,7 @@ For a list of possible errors, see Troubleshooting port-in error messages.
  Wireless number transfers usually takes a few seconds, but can sometimes take up to 2 hours to get a response from your old provider. A home phone transfer can sometimes take up to 24 hours.
 
 
-*Buying a phone
+## Buying a phone
 
 Although we don’t sell phones – there are lots of great options available when you need a new one!
 
@@ -421,7 +417,7 @@ Most phones that have been used in Canada or the U.S. are compatible with Lüm s
 
 For more information about the blacklist database, check out the Device Check Canada website.
 
-*Emergency alerts on your phone
+## Emergency alerts on your phone
 
 The province uses SaskAlert (Saskatchewan's Emergency Public Alerting program) to alert the public in real-time of an emergency situation - and we know that some mobile phones are not compatible to automatically receive the SaskAlert emergency messages. 
 
@@ -429,7 +425,7 @@ Most phones that were made after March 2018, and have LTE service at the time of
 
 If your phone is not compatible and you want to receive SaskAlert messages - please download the SaskAlert app by searching for "Saskatchewan Emergency Alert" in the Google Play Store or App Store.
 
-*Getting help with a used phone
+* Getting help with a used phone
 
 A lot of department stores now sell phones. Whether you bought it from a box store or online website, you may need help if it suddenly stops working. All websites are required to provide information about return policies and warranty periods, so they're usually a good place to start.
 
@@ -451,7 +447,7 @@ Another option is to take it to the many phone repair shops that have opened in 
 
 For more information on the Alert Ready system go to the Alert Ready website.
 
-*IMEI Eligibility
+# IMEI Eligibility
 
 Phones brought from outside North America may have issues with receiving phones calls, texts messages, or using data. If your phone was flagged in the IMEI lookup as having limited network access, here's why:
 
@@ -554,13 +550,13 @@ If the member doesn’t already have access to their myLüm account you will com
 If you ever move your phone number to a different provider - you must first remove all your linked accounts. You cannot complete a number move if you have members linked to your account. 
 
 
-**Lüm Mobile Terms of Service
+# Lüm Mobile Terms of Service
 By Lüm MobileLast Updated: Mar 23, 2023
 Lüm Mobile is a digital only wireless service (the "Service") that gives customers access to Lüm’s wireless network to make and receive calls, send and receive text messages, and use data. These are the Lüm Mobile terms of service. Customers can manage their own account by purchasing memberships and then data as needed. Use of the Service requires payment in advance. 
 
 “Us”, “we”, “our” or "Lüm” means Lüm Mobile; “you” or “your” means the person purchasing wireless service from Lüm Mobile.
 
-*Membership
+## Membership
 Included in your membership is:
 the option to purchase Canada Data for calling, messaging and data service in Canada, and Travel Data for roaming in the United States ("U.S."), and Mexico (see Service Area and Coverage Details for exclusions),
 moving your existing phone number from another provider or establish a new number
@@ -589,14 +585,14 @@ Memberships are non-transferrable and are for use by the person who opened the a
 The membership fee does not include 9-1-1 fees or taxes.
 Once you create an account you have 15 days to purchase a membership. After 15 days, the account will be deleted if a membership has not been purchased.
 
-*Eligibility for Service
+## Eligibility for Service
 Customers must reside in Saskatchewan and have a billing and shipping address within the province to sign up for the Service.
 You must bring your own phone. Lüm Mobile is not responsible for the setup, operation, or maintenance of your phone. It is your responsibility to ensure that your phone is compatible with our network and that it complies with the rules and regulations of Innovation, Science and Economic Development Canada (ISED). Lüm Mobile provides no warranty or promise of any kind for your phone. To check your phone eligibility, go to [https://lum.ca/bringphone].
 If at any time during your membership with Lüm you cease to meet the eligibility requirements specific to the Service to which you are subscribed, then Lüm Mobile may alter your service, up to and including termination, to bring your Service into compliance with your eligibility. Lüm will notify you when such a change has been made.
 Your phone and its software must meet minimum Lüm network standards. Our network standards will be updated sometimes, and you may no longer be able to use the service without upgrading your software or device.
 Data
 
-*Use and Data Charges
+## Use and Data Charges
 Once you have a membership, you need to purchase Canadian Data, the Talk and Text add-on and/or Travel Data to make phone calls, send messages and use data services. When you talk, send a text message or use data, the applicable data cost is deducted from your data balance unless you have the Talk and Text add-on.
 Your data balance does not expire while you have an active membership, but once a membership expires, any data remaining expires 60 days after your membership end date. You cannot use data that you’ve purchased without an active membership. When you renew your membership - any data you have in your balance will carry over.
 When you are getting close to using up your data, we will send you a notification (unless you chose to opt-out of the notification). If you run out of data, you will not be able to use any services. You will need to recharge your data balance to resume your Service. If you have the Talk and Text add-on you can still make and receive calls and texts. If you run out of data, 9-1-1 calls can still be made.
@@ -607,31 +603,31 @@ Partial minutes are rounded up to full minutes
 Data cannot be transferred to another customer
 
    
-*Canada Data
+## Canada Data
 Auto-recharge can be turned on in your myLüm account to automatically purchase data for you when your balance is close to running out or based on a schedule that you create.
 If you have data set to auto-recharge, it will automatically purchase data the current in-market rate.
 When you talk, send a text message, or use data while in Canada, the applicable data amount is deducted from your data balance as follows:
    
-*Travel data
-You can purchase Travel Data to roam in the U.S. and Mexico where service is available. Data purchased for Canada cannot be used in the U.S. and Mexico. Customers must purchase Travel Data to use service in these countries. Travel Data:
-may only be used outside of Canada
-cannot be transferred to the Canada data balance; and 
-is non-refundable
+## Travel data
+- You can purchase Travel Data to roam in the U.S. and Mexico where service is available. Data purchased for Canada cannot be used in the U.S. and Mexico. Customers must purchase Travel Data to use service in these countries. Travel Data:
+- may only be used outside of Canada
+- cannot be transferred to the Canada data balance; and 
+- is non-refundable
  
-*Every time you talk, send a message, or use data, the applicable cost is deducted from your Travel Data balance. Outgoing text messages are deducted from the data balance at a rate of 1 MB per message. All incoming and outgoing voice calls are deducted from the data balance at a rate of 1 MB per minute. MMS messages are deducted from the data balance based on the actual size of the picture or video.
+- Every time you talk, send a message, or use data, the applicable cost is deducted from your Travel Data balance. Outgoing text messages are deducted from the data balance at a rate of 1 MB per message. All incoming and outgoing voice calls are deducted from the data balance at a rate of 1 MB per minute. MMS messages are deducted from the data balance based on the actual size of the picture or video.
 
-*The Talk & Text add-on does not include calls made and messages sent while roaming outside of Canada.
+## The Talk & Text add-on does not include calls made and messages sent while roaming outside of Canada.
 Travel Data cannot be set to auto-pay.
 
 If you purchase $100 in Travel Data in any 30-day period, you will be required to consent to purchases over $100.
 
 
-*Talk & Text Add-on (Optional)
+## Talk & Text Add-on (Optional)
 The Talk & Text add-on includes unlimited outgoing calls and messages while you are in Canada to Canada and the U.S. It also includes incoming calls and text messages while you are in Canada from Canada and the U.S.. The Talk & Text add-on does not include calls made and messages sent while roaming outside of Canada. Picture and video messages (MMS) are not included in the Talk & Text add-on. The talk and text add on will automatically renew when the membership auto-renews, and you will be charged the current in-market rate. You can cancel the Talk & Text Add-on anytime but it will not be refunded.
 
 
 
-*Linked Accounts
+## Linked Accounts
 Linking with Lüm lets you add other members onto your myLüm account, so you can manage multiple accounts from one place. You can decide if the linked account has access to manage their service in their myLüm account and who is responsible for paying for charges on the linked account.
 
 Linking with other members does not mean you share or pool data and memberships – everyone still purchases and uses their own membership and data.
@@ -648,12 +644,12 @@ View your personal information & purchase history
 Remove your myLüm access
 If you allow your account to be linked, the primary account that linked you can remove your access to myLüm. Only the primary account holder can reestablish your myLüm access.
 
-*9-1-1 Service, Fees, and Emergency Alerts
+## 9-1-1 Service, Fees, and Emergency Alerts
 9-1-1 Emergency service is available where network connectivity is available in Canada. You must provide your location and call back number as these details are not automatically available to 9-1-1 service operators. 9-1-1 may not always work, and you agree that Lüm is not responsible if it doesn’t.
 A 9-1-1 fee applies to all memberships purchased for Lüm Mobile. The fee is an amount we must pay to the 9-1-1 service operator for 9-1-1 to work on your phone. This fee will be charged in addition to the membership fee whenever a membership is purchased. The 9-1-1 fee is charged for the total number of months that the membership is valid. If a membership is cancelled with more than a month remaining, the unused 9-1-1 fee will be refunded back to the payment card on the account.
 We are not responsible for the operation of public alerting systems, including the Alert Ready System. We do not control the content, timing and/or who can receive messages. See alertready.ca/wireless for current alerts and further details.
 
-*Service Area & Coverage Details
+## Service Area & Coverage Details
 You can use the Service within Lüm’s coverage areas in Saskatchewan or areas served by companies with whom we have roaming agreements in the rest of Canada.
 You can call and text numbers in Canada, the U.S., and Mexico. You cannot receive international calls and text messages from countries other than Canada, the U.S., and Mexico. The U.S. includes Alaska, Hawaii and the country of Guam. All other U.S. territories and holdings are excluded.
 Roaming is available in the U.S. and Mexico where Lüm has agreements with roaming partners. Coverage areas, and the connectivity in these areas, will depend on the availability of network facilities which is subject to change from time to time, without notice.
@@ -662,7 +658,7 @@ Where you roam on any other wireless carrier’s network, you have no relationsh
 The types of services available for your use while roaming are dependent on the services made available by the other carrier on their network and the specific terms of the roaming agreement in place between Lüm and the carrier. Unless you opt out, you will receive notification from us when you use your Service outside of Canada, providing you with information about roaming rates for that country.
 Roaming is only available in the U.S. and Mexico.
 
-*Managing your myLüm account
+## Managing your myLüm account
 Visit myLüm or download the myLüm mobile app to access and manage your myLüm account, add data, view your data balance, create or cancel auto-pay, view payment history, and manage your notifications.
 
 Your myLüm registration is not transferable. Your registration and account have no expiry date unless terminated by you or by Lüm. Use of your account after it has been terminated is illegal and fraudulent.
@@ -673,12 +669,12 @@ You may review, correct, update or cancel your myLüm account at anytime by logg
 By accepting this Agreement you expressly agree that any communication respecting any aspect of your myLüm account, use of our website (subject to the Websiter Terms and Conditions), the service, or promotions (including information on new products, special offers, newsletters) may be sent to you by Lüm through email or by any other means of communication. You can opt out of receiving Lüm promotional communications at any time.
 If you opt out of service notifications, you will not receive important updates about your data balance, renewals, expiring memberships, or other factors that could affect your ability to use the service.
 
-*Service & Support
+## Service & Support
 Lüm is a digital only service. Help is available online through help articles, the Lüm Member Forum and the 24/7 virtual assistant chat, Lümbot. Lüm does not offer call centre or in-person support. No sales, service, or support are available from SaskTel or SaskTel Authorized Dealers.
 If you are having performance issues with the Service visit [https://lum.ca/help]. 
 
-**Legal Terms
-*Fair and Appropriate Use
+# Legal Terms
+## Fair and Appropriate Use
 You can only use Lüm Mobile services for your own individual use, with compatible devices and in compliance with the law. You also agree not to:
 use the service for resale of any kind;
 use the service for sending threats or obscene material, harassment, or invading privacy;
@@ -691,21 +687,21 @@ You agree not to threaten, abuse or harass any Lüm Mobile customer representati
 
 Lüm Mobile services are meant to be used primarily within Saskatchewan. If more than half of your data usage on an ongoing basis is occurring outside of Saskatchewan, Lüm Mobile reserves the right to limit your data speeds, the amount of data transferred, deny, suspend or terminate the service or any part, component or feature thereof, without notice, to anyone believed to be using any Lüm Mobile provided wireless service or feature in any manner that adversely impacts Lüm Mobile.
 
-*Network Operation, Details & Limitations
+## Network Operation, Details & Limitations
 The Lüm Mobile network has been designed in accordance with industry standard specifications to be secure, we offer no warranty, representation or promise of any kind either that the Service will remain uninterrupted or that the Service is secure or will not be breached. You acknowledge that it is your responsibility to implement your own security measures while using the Service.
 You receive access to our full network, including all of the latest technology that we’ve deployed. Speeds are limited by environmental factors including tower locations, distance from cell sites, network congestion, tower hand-offs, and device used. Be careful, we don’t throttle your speeds.
 You agree to follow all rules, regulations and policies governing the use of the Service. Lüm Mobile may update or change these rules from time to time, and it's your responsibility to understand and follow the current policies, rules, and regulations.
 When using the Service, including data sessions, you will follow all applicable laws and any Service rules adopted by us from time to time addressing such things as safe driving and health and safety guidelines. You can only use the Service for customary voice, messaging and wireless data service. Such customary use does not include any application or use which degrades or interferes with our ability to provide services, including the Service, to others, as we determine.
 
-*Phone Numbers
+## Phone Numbers
 You can move the phone number you are using to another service provider but you don’t own the phone number.
 If you leave Lüm and don’t move the number you use to another provider within the allotted time frame, we have the right to assign that number to another customer. Customers don’t have any rights to telephone numbers used by them even if the number is in the phone book.
 We may, after giving you at least thirty days’ notice, change any phone number without liability where we have reasonable grounds for changing a number and give you reasonable advance notice stating the reason for and the anticipated date of the change, or in cases of emergency, give the customer verbal notice, which must be followed by a written explanation as soon as possible.
 
-*Changes to the Terms of Service
+## Changes to the Terms of Service
 We have the right to change the terms of service without notice. It is your responsibility to review these Terms of Service from time to time to check for any amendments to these Terms of Service. By using the service after a change is made, you accept and agree to and are bound by the current version of these Terms of Service. We may change rates for memberships and plans without notice effective immediately.
 
-*Default
+## Default
 Any one or more of the following is considered an event of deafult and may results in the cancellation of your service:
 if you fail to perform or observe any obligation we described above; or
 if supplied any incorrect or incomplete information in connection with the Service; or
@@ -714,7 +710,7 @@ if you are in breach of the terms of any of our policies that apply to the Servi
 
 If you are in default, or if you are in breach our Fair and Appropriate Use terms, we reserve the right to suspend your account and to stop selling future services to you and retain amounts paid by you to us.
 
-*Limitation of Liability and Indemnity
+## Limitation of Liability and Indemnity
 If any person makes a claim against Lüm in connection with use of our service or of any device on your account, you will indemnify us against any loss or expense that we may incur, including any judgment made against us. 
 
 None of the limitations of liability stated apply in cases of deliberate fault, gross negligance or anti-competitive conduct on the part of Lüm Mobile or in cases of breach of contract where the breach results from our gross negligance. 
@@ -727,7 +723,7 @@ Damages arising out of the transmission of material or messages over Lüm Mobile
 Any act, omission or negligence of other companies or telecommunications systems in relation to the provision of the service to you, when the facilities of such other companies or telecommunications systems are used to establish connections to or from facilities and equipment controlled by you. To the fullest extent permitted by law, Lüm Mobile will not liable to you or to any other person for any damages or expenses (including loss of profits, loss of earnings, loss of business opportunities, loss of data, economic losss or other similar loss, or punitive damages) arising out of or in connection with the use or failure of the service, whether caused by negligence or otherwise, and whether claimed in contract, tort or otherwise.
 You acknowledge and agree that there is some content accessible through the Service that may be offensive to you or a user of your Service, or that may not be in compliance with applicable law. For example, it is possible to obtain access to content that is pornographic, obscene, or otherwise inappropriate or offensive, particularly for children. We assume no responsibility for and exercise no control over the content accessible through the Service. You agree that all content you and your end users access and use with the Service is at your and their own risk. We are not liable for any claims, losses, actions, damages, suits or proceedings arising out of or otherwise relating to your and/ or your end users access to such content.
 
-*General
+## General
 Lüm Mobile is not a monthly billed service and a monthly invoice is not provided. Receipts for purchases are available in Purchase History in your myLüm account.
 If your phone is lost or stolen, you can suspend data use in you myLüm account. Your membership period will continue to run but your phone will not be able to make calls, texts, or use data. 
 You can request to have your contact information (name, phone number and address) listed in the Mysask411 Directory by contacting Directwest at 1-800-667-8201. We are not responsible for removing your listing from the directory if your Service is cancelled, nor are we are liable for damages arising from errors or omissions in a listing. To edit or cancel your listing, phone Directwest.
@@ -753,7 +749,7 @@ If you dispute payments or data deductions, you have to contact us within 30 day
 This Terms and Conditions are in all respects governed by and will be interpreted in accordance with the law of the Province of Saskatchewan.
 If any part of these Terms of Service is unenforceable, that part will be struck and the remainder of the agreement shall remain in effect.
 
-* Lüm network capabilities
+## Lüm network capabilities
 Our future roadmap includes all network advancements that are possible by North American providers. Here's a list of what we have so far:
 
 LTE-Advanced data
@@ -765,7 +761,7 @@ SMS (text messages)
 VoLTE
 For a list of VoLTE capable devices, go to this link: VoLTE capable devices - Member Forum (lum.ca)
 
-* Lüm network settings (APN)
+## Lüm network settings (APN)
 
 These settings allow you to use data and picture messaging (MMS). Most phones will get these settings by default so you likely won't need to use these.
 
@@ -797,7 +793,7 @@ Still can’t get it working?
 
 Let the community know and they’ll help get you running! 
 
-*Making a complaint
+## Making a complaint
 
 Here are ways to reach out if you have a complaint, concern or dispute
 
@@ -813,7 +809,7 @@ To learn more about CCTS, you may visit its website at: http://www.ccts-cprst.ca
 
 
 
-*Number verification on VoLTE calls
+## Number verification on VoLTE calls
 
 Some devices from Apple and Samsung support a calling feature that uses Caller ID (on an incoming call) to verify the call is coming from a verified number.
 
@@ -826,7 +822,7 @@ iPhone includes a checkmark on phone records in the call log.
 Android includes a check mark & "Number Verified" wording on the incoming call.
 
 
-*Questions about Lüm SIM card shipping
+## Questions about Lüm SIM card shipping
 
 This FAQ was made to help with common questions around SIM shipping.
 
@@ -842,10 +838,10 @@ I think something is wrong with my request. Can someone take a look at it?
 
 Yes! Submit a trouble ticket and we'll sort it out for you :)
 
-*Setting up your voicemail
+## Setting up your voicemail
 
 Dial one of the options:
-*99 
+* 99 
 Press the voice mail button on your iPhone calling app (except new activations)
 306-520-MAIL (306-520-6245)
 Hold 1 (except new activations)
@@ -869,7 +865,7 @@ Change the number to 13065206245 and Update for each option.
 Try checking your voicemail to see if it's working.
 
 
-*Text messages from Lüm Mobile
+## Text messages from Lüm Mobile
 
 We use numbers called short codes to keep you up to date.
 
@@ -886,7 +882,7 @@ Click on Settings > More Settings >Multimedia Messages>Group conversation
 Turn on Group conversation
 You may need to remove the group and re-add it.
 
-*Understanding referrals
+## Understanding referrals
 
 Existing members with active memberships can find a referral code in myLüm that can be given to any new member signing up for service for the first time. This gives the new member a $25 discount off their first purchase and the existing member a $25 discount off their next membership renewal (if new member doesn't cancel within 15 days after activating).
 
@@ -894,7 +890,7 @@ Maximum 2 referral discounts per membership period - two $25 discounts for a tot
 No carry over to next membership
 Once you renew, your referral count goes back down to 0 and you can receive 2 more referral discounts again
 
-*Understanding Usage History
+## Understanding Usage History
 
 Usage History shows daily data usage in 5.00 MB segments or less.
 
@@ -910,7 +906,7 @@ November 28: 14.06 MB.
 Another 5.00 MB was used by 4:48 PM.
 4.06 MB was used in the remainder of the day.
 
-*Understanding what uses your data
+## Understanding what uses your data
 
 With Lüm, there are no charges for minutes or messages: just MB. Calls and texts come out of your data balance. That’s how we do things at Lüm - we think that if you don’t make calls, you shouldn’t pay for them either.
 
@@ -922,7 +918,7 @@ That means with just 1 GB you can talk for 8 hours AND send 5,000 text messages,
 
 If you want to keep it old school, great! Add the Talk & Text add-on to your Lüm membership for unlimited talk and texts from within Canada to anywhere in Canada or the U.S.
 
-*Using Lüm Mobile outside of Canada
+## Using Lüm Mobile outside of Canada
 
 Traditional voice phone calls, SMS (text) messages, and data can only made within and to Canada, the U.S. & Mexico. See our plans page for more information about roaming!
 
@@ -931,7 +927,7 @@ You can use your Lüm data to stay connected with friends and family Internation
 You can still take your device Internationally and explore other ways to use mobile service, like buying a SIM card from the International location you are travelling to or using Wi-Fi while there.
 
 
-*VoLTE capable devices
+## VoLTE capable devices
 
 For VoLTE capable phones - this means high-definition voice calls, faster call connection times and improved battery life.
 
@@ -1058,18 +1054,16 @@ Blade A3 Plus
 
 
 
-*Why isn't the voicemail button or holding 1 working?
+## Why isn't the voicemail button or holding 1 working?
 
-If you purchase voicemail at the same time you activate a new Lüm account, it may take up to one week to be able to hold the number 1 or press the voicemail button on your iPhone to access your mailbox. To set up your mailbox and PIN, dial *99 or 306-520-MAIL (306-520-6245) from your phone - your temporary PIN is your 10-digit Lüm phone number.  
+If you purchase voicemail at the same time you activate a new Lüm account, it may take up to one week to be able to hold the number 1 or press the voicemail button on your iPhone to access your mailbox. To set up your mailbox and PIN, dial * 99 or 306-520-MAIL (306-520-6245) from your phone - your temporary PIN is your 10-digit Lüm phone number.  
 
 After one week, you can start using the short codes above. 
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Troubleshooting
+# Troubleshooting
 
 
-*Call quality issues on VoLTE
+## Call quality issues on VoLTE
 
 If you notice your calls' audio is dropping out or the person you're talking to mentions it:
 
@@ -1080,7 +1074,7 @@ If the quality is better, we recommend finishing the call in 3G and then turning
 
   
 
-*Identifying what is causing data usage
+## Identifying what is causing data usage
 
 There are no scenarios where data usage can happen without your phone using it. Some apps like System Settings have the ability to force you to use data, even if you're on Wi-Fi. We recommend tracking these apps on your phone so you can determine what may be causing data usage.
 
@@ -1090,7 +1084,7 @@ iPhone users: Use cellular data on your iPhone
 Android and Pixel users: Reduce & manage mobile data usage
 There are also apps you can download from the Google Play Store or Apple Store to track usage.
 
-*Missing Lüm Mobile emails
+## Missing Lüm Mobile emails
 
 Missing an email from us? Here's a few things to check:
 
@@ -1099,10 +1093,10 @@ Email forwarding rules (ex: Hotmail emails forwarded to your Gmail account).
 Spelling of your email address (pobody's nerfect).
 Check your Notifications in myLüm.
 
-**In case of user is not logged in and any trouble ticket number given in prompt it should say it is unable to find in database as customer has not logged in, please login. 
-**In case of authenticated user show the data available regarding that ticket number (if any).
+* In case of user is not logged in and any trouble ticket number given in prompt it should say it is unable to find in database as customer has not logged in, please login. 
+* In case of authenticated user show the data available regarding that ticket number (if any).
 
-*Troubleshooting data
+## Troubleshooting data
 
 First time setup? Check your Lüm network settings.
 
@@ -1116,7 +1110,7 @@ Let the community know in the Discussion threads and one of our members will hel
 If they can't, they'll tell you to raise a trouble ticket.
 
 
-*Troubleshooting phone calls
+## Troubleshooting phone calls
 
 Make sure you have data or the Talk & Text add-on.
 Check how many bars you have. If you don't have service, you can't make phone calls.
@@ -1129,7 +1123,7 @@ Check the Discussion threads to see if there's an outage.
 If the community can't help, they'll tell you to raise a trouble ticket.
 
 
-* Troubleshooting port-in error messages
+## Troubleshooting port-in error messages
 
 Here are a few possible error messages you may see when you're transferring your number to us.
 
@@ -1157,14 +1151,14 @@ If you cancelled your service with your old provider or selected the wrong one, 
 
 Your number is either not from Saskatchewan or you may still owe something with your old carrier. You'll have to contact your old provider to see why they're denying the request.
 
--Enabling SMS bypass
+- Enabling SMS bypass
 If you move your phone number to another provider, you are required to respond to a text message to authorize it. If you have not received a message, make sure to follow these steps: Log into myLüm. Click on Settings. Scroll down and click Enable ByPass SMS.
 
--Rejection reason: Request cancelled.
+- Rejection reason: Request cancelled.
 This can happen if the browser or app window is left open for too long and times out.
 
 
-* Troubleshooting roaming
+## Troubleshooting roaming
 
 For U.S or Mexico roaming, make sure you have travel data purchased!
 
@@ -1178,8 +1172,8 @@ Let the community know and one of our members will help you.
 Check the Discussion threads to see if there's an outage.
 If they can't, they'll tell you to raise a trouble ticket.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-* Troubleshooting text messages
+
+## Troubleshooting text messages
 
 Did you just get a new phone?
 
@@ -1188,7 +1182,7 @@ Try making a phone call to make sure you have service.
 If you switched from an iPhone to an Android, check out how to Deregister iMessage online.
 Text another number. You may have the contact info wrong in your Address Book.
 
-* Can't send/receive texts?
+## Can't send/receive texts?
 
 Make sure you have data or the Talk & Text add-on for sending texts.
 Try making a phone call to make sure you have service.
@@ -1200,30 +1194,30 @@ Check the Discussion threads to see if there's an outage.
 Let the community know and one of our members will help you.
 If they can't, they'll tell you to raise a trouble ticket.
 
-------------------------------------------------------------
-Get your SIM!
+
+# Get your SIM!
 eSIM is easy! eSIM is a digital SIM that works the same as a physical SIM card. That means you can Lüm right away! No waiting for a SIM card to be shipped to you.
 But if you still need a physical SIM card – don’t worry! We’ll ship you one for free. SIM cards are mailed by Canada Post and will be delivered in 1 to 3 business days.
 
-*9-8-8 Suicide Crisis Helpline
+* 9-8-8 Suicide Crisis Helpline
 9-8-8 is a free service for anyone who is thinking about suicide, or who is worried about someone they know. Call or text 9-8-8 toll-free, anytime to connect to a responder to get help without judgement. Support is in English or French. For more information, visit https://988.ca. 
 
-**What is 9-8-8?  
+* What is 9-8-8?  
 9-8-8 Suicide Crisis Helpline is a three-digit helpline that provides urgent, live support by phone and text to people in every province and territory across the country.   
 9-8-8 is available in English and French, 24 hours a day, every single day of the year across the country.   
 9-8-8 is for anyone thinking about suicide, or worried about someone they know. Trained 9-8-8 responders will answer calls and texts and listen without judgement while providing support. 
 
-**Who should call 9-8-8?  
+* Who should call 9-8-8?  
 
 9-8-8 is for anyone who is thinking about suicide, or who is worried about someone they know.  
 Suicide prevention is the primary focus of 9-8-8, but no one who calls or texts the helpline will be turned away. Everyone who contacts 9-8-8 will be assessed for suicide risk, and all 9-8-8 responders are trained to respond to people going through a range of crises. 
 
-**Who runs 9-8-8?  
+* Who runs 9-8-8?  
 The Centre for Addiction and Mental Health (CAMH) in Toronto, Ontario is leading and coordinating the delivery of 9-8-8 nationwide.   
 A growing network of more than 40 experienced local, provincial, territorial, and national crisis lines across the country provide culturally appropriate, lifesaving support to people who call or text 9-8-8.  
 9-8-8 is funded by the Government of Canada, through the Public Health Agency of Canada. 
 
-**What happens when I call 9-8-8?  
+* What happens when I call 9-8-8?  
 
 When you call 9-8-8, before you are connected to a 9-8-8 responder, you will hear a brief pre-recorded message to let you know you are in the right place.  
 Most callers at this point will also hear a few short questions, such as whether you’d like to talk to someone in English or French, if you are under 18, and if you would like to speak to a responder that has experience supporting First Nations, Inuit, and Métis people. The message will also let you know how you can find out more about using the service, including about confidentiality.  
@@ -1231,31 +1225,31 @@ In some parts of Canada, you will be put straight through to the existing crisis
 All callers will be put through to a responder who will listen and provide support. If you need to wait for a short time, please stay with us –we will answer your call.   
 Whatever you are facing, 9-8-8 responders are here to help. No one who reaches out to 9-8-8 will be turned away. 
 
-**What happens when I text 9-8-8?  
+* What happens when I text 9-8-8?  
 
 When you text 9-8-8, you will first see some automated messages before you connect to the live text service.  
 You will be asked if you want to text in English or French, and will be sent a link to find out more about using the service, including about confidentiality.  
 You will reach a responder who will listen and provide support. If you need to wait for a short time, please stay with us –we will answer your text. 
 
-*port out
+### port out
         -When you are porting out to another service provider you will be required to confirm this by replying yes to a text message. If you have not received this text message, please enable sms bypass by (provide link of article [https://lum.ca/search?search=bypass] ). If you have a linked account you will need to delink them prior to porting out (provide link to article []) otherwise there shouldn't be other port protection on the account. Please raise a ticket if you require further assistance.
 	
-*Disable port protection
+### Disable port protection
 	    -When you are porting out to another service provider you will be required to confirm this by replying yes to a text message. If you have not received this text message, please enable sms bypass by (provide link of article [https://lum.ca/search?search=bypass] ). If you have a linked account you will need to delink them prior to porting out (provide link to article []) otherwise there shouldn't be other port protection on the account. Please raise a ticket if you require further assistance	
 
-*payment failed
+### payment failed
 In case of payment failed kind of prompt, give steps to user to create a ticket to get the payment repushed along with the response to contact bank or credit card company. Also suggest user to check if the card is updated. 
 
-*Customer service agent 
+### Customer service agent 
 In case of any user prompts containing word agent, person, customer care it should respond with information including Lum is a 100% digital and ask the user to create a ticket.
  
-*Change Language 
+### Change Language 
 When asked about changing a language you should respond with something like that 'you can ask me in any language you wish to get assistant'. 
 
-*suggest me weekend plans
+### suggest me weekend plans
 If any prompt comes up with word plan in it (like weekend plan, holiday plan, leisure plan etc)  show the breakdown of Lum plans.
 
-* What is Wi-Fi Calling?
+### What is Wi-Fi Calling?
 
 Wi-Fi Calling lets you make and receive voice calls and send and receive text messages over a Wi-Fi connection when the cellular signal is poor or non-existent.
 One common misconception about Wi-Fi Calling is that it's entirely free, but it's important to note that when you make a call or text using Wi-Fi Calling, the call minutes and texts used are still deducted from your data balance unless you have the Talk & Text add-on. For more details have a look [https://help.lum.ca/kb/articles/126-wi-fi-calling-and-texting]
