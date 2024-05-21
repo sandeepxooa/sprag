@@ -14,7 +14,7 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 
 # Load knowledge base
 file_path = "./lum.txt"
-kb_id = "lum_kb1"
+kb_id = "lum_kb2"
 try:
     kb = create_kb_from_file(kb_id, file_path)
     # kb.save()
