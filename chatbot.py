@@ -95,7 +95,8 @@ def main():
             # Display top 5 relevant documents
             for i, doc in enumerate(docs[:10], start=1):
                 st.subheader(f"Context {i}")
-                st.markdown(doc['metadata']["chunk_text"])
+                chunk_text = doc['metadata']["chunk_text"].replace("$", "\$")
+                st.markdown(chunk_text)
 
 
 if __name__ == "__main__":
