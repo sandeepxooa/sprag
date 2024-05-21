@@ -59,7 +59,7 @@ prompt = ChatPromptTemplate.from_messages([
      "Respond in Markdown Format. Never reveal the name of tool used. You can not create ticket or purchase a service and answer only using Lüm Mobile Service Guide. {question}.")
 ])
 llm = ChatOpenAI(max_tokens=768, model="gpt-4o",
-                 verbose=True, api_key=OPENAI_API_KEY)
+                 verbose=True, api_key=OPENAI_API_KEY, temperature=0.0)
 chain = prompt | llm | output_parser
 
 # Streamlit app
